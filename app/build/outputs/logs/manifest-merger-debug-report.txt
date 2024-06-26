@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.0.1] /Users/katelint/.gradle/caches/transforms-3/ae5168fdbc9e9b10309da99bc397aae2/transformed/material-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/katelint/.gradle/caches/transforms-3/935e145e544e52c1b2951726b1676501/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/katelint/.gradle/caches/transforms-3/876b279259e911979d493171116dbf8d/transformed/ui-tooling-data-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fedeeca6d0bdfe9bf97f72390561e727/transformed/material-ripple-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b64d84088295a40cad05c914902f69d2/transformed/foundation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/528f539d44026aba380075e97bf5e04d/transformed/animation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/f5db3ff6169a688a0f6278aa6c8b3778/transformed/animation-core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/402048bbb752b3d19dcfe5b13e31e2ec/transformed/material-icons-core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/katelint/.gradle/caches/transforms-3/330a4c8de08b4f6bc5a64fd1514dc50d/transformed/foundation-layout-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/katelint/.gradle/caches/transforms-3/09f27bc0e5e70b0630c8a51da4c54eb4/transformed/ui-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4eb78185c46b19a5817511d076439e6a/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/cf941a974289862b00d1b23d278f9d83/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/katelint/.gradle/caches/transforms-3/11bac4613ae4b32b00782b375b5a2ba4/transformed/ui-tooling-preview-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fb069cccbbe524bfc98e243e08785439/transformed/ui-text-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/katelint/.gradle/caches/transforms-3/29364ba481d9843f75d5998fdfaa8249/transformed/runtime-saveable-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/katelint/.gradle/caches/transforms-3/24f932d6726010646a3b773ef71b7643/transformed/ui-graphics-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b3e0ef088aa028af0e03b61d61e2eedc/transformed/ui-unit-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/katelint/.gradle/caches/transforms-3/43775d1bd59a4d3f917e23eb01a56afb/transformed/ui-geometry-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/katelint/.gradle/caches/transforms-3/162dae4b23067bf4ae65dc4e7145b471/transformed/runtime-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/059ebe7f8b59355c742e9fa0d9d23ffa/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/katelint/.gradle/caches/transforms-3/638ec0b8158651b0409521fbd3a452e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/ab52f6a55d2ac4951d62e0af4ed33713/transformed/sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/38b87aac0e6cc3c1c85a775a8b7f5a03/transformed/ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/katelint/.gradle/caches/transforms-3/d9631a6ca54e7fcb1989b695a8840f52/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/katelint/.gradle/caches/transforms-3/314291cdc6b6f9ee8aea9a5ded9ee1f9/transformed/ui-util-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/katelint/.gradle/caches/transforms-3/3fb9d0809851f9f6c9de78ab56db5236/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katelint/.gradle/caches/transforms-3/d3298ce21801b4bc4c1d2a384350cdaa/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4ec2380a4bb8461e33486665796aa776/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/katelint/.gradle/caches/transforms-3/680dbce0745d7eb4c87cedb00640b0d9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/katelint/.gradle/caches/transforms-3/21bda47b489a55b8e45f1ec335af1cef/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/katelint/.gradle/caches/transforms-3/92c51142ac5135677f73a6d556f4b5fa/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katelint/.gradle/caches/transforms-3/0a190fca95d6013d623d38ceff7c7fb2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/katelint/.gradle/caches/transforms-3/48090622f5bc5d2f586dffc092b6f266/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katelint/.gradle/caches/transforms-3/16d12600e87c4c95cfc8068d386aa841/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katelint/.gradle/caches/transforms-3/a2e8f18f34f894083974e5e1919fba65/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/katelint/.gradle/caches/transforms-3/873d266c4e66ba7044e4c7b82ab0ef02/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/katelint/.gradle/caches/transforms-3/ba84595b3e23338fd50ba697f906d5e5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katelint/.gradle/caches/transforms-3/0a190fca95d6013d623d38ceff7c7fb2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katelint/.gradle/caches/transforms-3/0a190fca95d6013d623d38ceff7c7fb2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:11:9-55
+activity#com.jetpack.crossfadepiechart.MainActivity
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:15:13-45
+	android:exported
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:16:13-59
+	android:name
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] /Users/katelint/.gradle/caches/transforms-3/ae5168fdbc9e9b10309da99bc397aae2/transformed/material-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.1] /Users/katelint/.gradle/caches/transforms-3/ae5168fdbc9e9b10309da99bc397aae2/transformed/material-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/katelint/.gradle/caches/transforms-3/935e145e544e52c1b2951726b1676501/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/katelint/.gradle/caches/transforms-3/935e145e544e52c1b2951726b1676501/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/katelint/.gradle/caches/transforms-3/876b279259e911979d493171116dbf8d/transformed/ui-tooling-data-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.0.1] /Users/katelint/.gradle/caches/transforms-3/876b279259e911979d493171116dbf8d/transformed/ui-tooling-data-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fedeeca6d0bdfe9bf97f72390561e727/transformed/material-ripple-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fedeeca6d0bdfe9bf97f72390561e727/transformed/material-ripple-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b64d84088295a40cad05c914902f69d2/transformed/foundation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b64d84088295a40cad05c914902f69d2/transformed/foundation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/528f539d44026aba380075e97bf5e04d/transformed/animation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] /Users/katelint/.gradle/caches/transforms-3/528f539d44026aba380075e97bf5e04d/transformed/animation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/f5db3ff6169a688a0f6278aa6c8b3778/transformed/animation-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/f5db3ff6169a688a0f6278aa6c8b3778/transformed/animation-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/402048bbb752b3d19dcfe5b13e31e2ec/transformed/material-icons-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.0.1] /Users/katelint/.gradle/caches/transforms-3/402048bbb752b3d19dcfe5b13e31e2ec/transformed/material-icons-core-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/katelint/.gradle/caches/transforms-3/330a4c8de08b4f6bc5a64fd1514dc50d/transformed/foundation-layout-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] /Users/katelint/.gradle/caches/transforms-3/330a4c8de08b4f6bc5a64fd1514dc50d/transformed/foundation-layout-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/katelint/.gradle/caches/transforms-3/09f27bc0e5e70b0630c8a51da4c54eb4/transformed/ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] /Users/katelint/.gradle/caches/transforms-3/09f27bc0e5e70b0630c8a51da4c54eb4/transformed/ui-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4eb78185c46b19a5817511d076439e6a/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4eb78185c46b19a5817511d076439e6a/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/cf941a974289862b00d1b23d278f9d83/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/cf941a974289862b00d1b23d278f9d83/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/katelint/.gradle/caches/transforms-3/11bac4613ae4b32b00782b375b5a2ba4/transformed/ui-tooling-preview-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.0.1] /Users/katelint/.gradle/caches/transforms-3/11bac4613ae4b32b00782b375b5a2ba4/transformed/ui-tooling-preview-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fb069cccbbe524bfc98e243e08785439/transformed/ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] /Users/katelint/.gradle/caches/transforms-3/fb069cccbbe524bfc98e243e08785439/transformed/ui-text-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/katelint/.gradle/caches/transforms-3/29364ba481d9843f75d5998fdfaa8249/transformed/runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] /Users/katelint/.gradle/caches/transforms-3/29364ba481d9843f75d5998fdfaa8249/transformed/runtime-saveable-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/katelint/.gradle/caches/transforms-3/24f932d6726010646a3b773ef71b7643/transformed/ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] /Users/katelint/.gradle/caches/transforms-3/24f932d6726010646a3b773ef71b7643/transformed/ui-graphics-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b3e0ef088aa028af0e03b61d61e2eedc/transformed/ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] /Users/katelint/.gradle/caches/transforms-3/b3e0ef088aa028af0e03b61d61e2eedc/transformed/ui-unit-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/katelint/.gradle/caches/transforms-3/43775d1bd59a4d3f917e23eb01a56afb/transformed/ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] /Users/katelint/.gradle/caches/transforms-3/43775d1bd59a4d3f917e23eb01a56afb/transformed/ui-geometry-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/katelint/.gradle/caches/transforms-3/162dae4b23067bf4ae65dc4e7145b471/transformed/runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] /Users/katelint/.gradle/caches/transforms-3/162dae4b23067bf4ae65dc4e7145b471/transformed/runtime-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/059ebe7f8b59355c742e9fa0d9d23ffa/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/katelint/.gradle/caches/transforms-3/059ebe7f8b59355c742e9fa0d9d23ffa/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/katelint/.gradle/caches/transforms-3/638ec0b8158651b0409521fbd3a452e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/katelint/.gradle/caches/transforms-3/638ec0b8158651b0409521fbd3a452e7/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/ab52f6a55d2ac4951d62e0af4ed33713/transformed/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/ab52f6a55d2ac4951d62e0af4ed33713/transformed/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/38b87aac0e6cc3c1c85a775a8b7f5a03/transformed/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/katelint/.gradle/caches/transforms-3/38b87aac0e6cc3c1c85a775a8b7f5a03/transformed/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/katelint/.gradle/caches/transforms-3/d9631a6ca54e7fcb1989b695a8840f52/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/katelint/.gradle/caches/transforms-3/d9631a6ca54e7fcb1989b695a8840f52/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/katelint/.gradle/caches/transforms-3/314291cdc6b6f9ee8aea9a5ded9ee1f9/transformed/ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] /Users/katelint/.gradle/caches/transforms-3/314291cdc6b6f9ee8aea9a5ded9ee1f9/transformed/ui-util-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/katelint/.gradle/caches/transforms-3/3fb9d0809851f9f6c9de78ab56db5236/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/katelint/.gradle/caches/transforms-3/3fb9d0809851f9f6c9de78ab56db5236/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katelint/.gradle/caches/transforms-3/d3298ce21801b4bc4c1d2a384350cdaa/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/katelint/.gradle/caches/transforms-3/d3298ce21801b4bc4c1d2a384350cdaa/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4ec2380a4bb8461e33486665796aa776/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/katelint/.gradle/caches/transforms-3/4ec2380a4bb8461e33486665796aa776/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/katelint/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/katelint/.gradle/caches/transforms-3/680dbce0745d7eb4c87cedb00640b0d9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/katelint/.gradle/caches/transforms-3/680dbce0745d7eb4c87cedb00640b0d9/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/katelint/.gradle/caches/transforms-3/21bda47b489a55b8e45f1ec335af1cef/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/katelint/.gradle/caches/transforms-3/21bda47b489a55b8e45f1ec335af1cef/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/katelint/.gradle/caches/transforms-3/92c51142ac5135677f73a6d556f4b5fa/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/katelint/.gradle/caches/transforms-3/92c51142ac5135677f73a6d556f4b5fa/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katelint/.gradle/caches/transforms-3/0a190fca95d6013d623d38ceff7c7fb2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/katelint/.gradle/caches/transforms-3/0a190fca95d6013d623d38ceff7c7fb2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/katelint/.gradle/caches/transforms-3/48090622f5bc5d2f586dffc092b6f266/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/katelint/.gradle/caches/transforms-3/48090622f5bc5d2f586dffc092b6f266/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katelint/.gradle/caches/transforms-3/16d12600e87c4c95cfc8068d386aa841/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/katelint/.gradle/caches/transforms-3/16d12600e87c4c95cfc8068d386aa841/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katelint/.gradle/caches/transforms-3/a2e8f18f34f894083974e5e1919fba65/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/katelint/.gradle/caches/transforms-3/a2e8f18f34f894083974e5e1919fba65/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/katelint/.gradle/caches/transforms-3/873d266c4e66ba7044e4c7b82ab0ef02/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/katelint/.gradle/caches/transforms-3/873d266c4e66ba7044e4c7b82ab0ef02/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/katelint/.gradle/caches/transforms-3/ba84595b3e23338fd50ba697f906d5e5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/katelint/.gradle/caches/transforms-3/ba84595b3e23338fd50ba697f906d5e5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/katelint/AndroidStudioProjects/Jetpack-Compose-CrossFade-PieChart-Using-MPAndroidChart-main/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.0.1] /Users/katelint/.gradle/caches/transforms-3/c68b3f0edefaa5cf20d01ea454606d6c/transformed/ui-tooling-1.0.1/AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/katelint/.gradle/caches/transforms-3/1b9543043a287bf79684823a2838121e/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] /Users/katelint/.gradle/caches/transforms-3/34576c5860182075f1e379f7ba411fd5/transformed/profileinstaller-1.0.1/AndroidManifest.xml:43:25-88
